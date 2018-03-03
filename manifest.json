@@ -1,15 +1,15 @@
 {
-	"name": "DuckDuckGo Home Page",
+	"name": "MyMiniFactory",
 	"version": "0.0.8",
 	"manifest_version": 2,
-	"description": "Quick link to DuckDuckGo search engine.",
+	"description": "Quick link to the MyMiniFactory homepage.",
 	"icons": {
-		"16": "img/duckduckgo_16.png",
-		"48": "img/duckduckgo_48.png",
-		"128": "img/duckduckgo_128.png"
+		"16": "img/mmf_16.png",
+		"48": "img/mmf_48.png",
+		"128": "img/mmmf_128.png"
 		},
 	"app": {
-		"urls": [ "https://duckduckgo.com/" ],
-		"launch": { "web_url": "https://duckduckgo.com/" }
+		"urls": [ "https://www.myminifactory.com/" ],
+		"launch": { "web_url": "https://www.myminifactory.com/" }
 	}
 }
