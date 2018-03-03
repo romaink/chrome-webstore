@@ -6,7 +6,7 @@
 	"icons": {
 		"16": "img/mmf_16.png",
 		"48": "img/mmf_48.png",
-		"128": "img/mmmf_128.png"
+		"128": "img/mmf_128.png"
 		},
 	"app": {
 		"urls": [ "https://www.myminifactory.com/" ],
